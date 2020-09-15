@@ -10,4 +10,12 @@ public class DspesquisaApplication {
 		SpringApplication.run(DspesquisaApplication.class, args);
 	}
 
+	
+	
+	
+	
+	
+	
+	
+	
 }

@@ -1,10 +1,14 @@
 import React from 'react';
 import './App.css';
+import Hello from './Hello';
+import Header from './Components/Header';
 
 function App() {
   return (
-<h1>Hello semana devSuperior!</h1>
-      );
+    <div>
+      <Header />
+    </div>
+  );
 }
 
 export default App;
